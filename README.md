@@ -80,4 +80,4 @@ To join an international engineering team where I can contribute with backend ex
 ## Contact
 
 LinkedIn: https://linkedin.com/in/seu-link  
-Email: your-email@email.com
+Email: guilhermemachado4267@gmail.com
