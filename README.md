@@ -1,92 +1,83 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://instagram.com/guii_gregorio" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  <a href="mailto:guilhermemachado4267@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/guilherme-machado-43822b233" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</div>
-
----
-
-<h1 align="center">Olá 👋 Eu sou Guilherme Machado</h1>
-
-<h3 align="center">Full Stack Developer | Backend Focus | APIs REST | React | Docker | AWS</h3>
-
----
-
-<h3 align="left">👨‍💻 Sobre mim</h3>
-
-<p align="left">
-Sou Desenvolvedor Full Stack com foco em backend e construção de sistemas orientados a negócio.<br><br>
-
-🔭 Atualmente atuo no desenvolvimento de ERP interno com PHP (Laravel), MySQL e APIs REST<br>
-⚙️ Experiência com modelagem de banco de dados, regras de negócio e integração entre sistemas<br>
-🌐 No frontend, trabalho com JavaScript e React para construção de interfaces modernas e integradas<br>
-🐳 Experiência com Docker e deploy em ambientes AWS<br>
-📚 Evoluindo continuamente em Java, arquitetura de software e microserviços<br>
-📫 Contato: guilhermemachado4267@gmail.com
+<h1 align="center">Guilherme Machado</h1>
+<p align="center">
+Full Stack Developer | Backend Specialist | ERP Systems | Scalable Architecture
 </p>
 
 ---
 
-<h3 align="left">🛠 Tecnologias & Ferramentas</h3>
+## Professional Summary
 
-<div style="display: inline_block"><br>
+Full Stack Developer with strong experience in designing and evolving ERP systems, focused on scalability, maintainability and performance.
 
-  <!-- Backend -->
-  <img align="center" alt="gui-PHP" height="30" width="40"
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
- <img align="center" alt="gui-Laravel" height="30" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" />
-  <img align="center" alt="gui-Java" height="30" width="40"
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="gui-Python" height="30" width="40"
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+Experienced in backend architecture using PHP (Laravel), RESTful APIs development, business rules implementation (Financial, Tax and Logistics domains), and relational database optimization (MySQL).
 
-  <!-- Frontend -->
-  <img align="center" alt="gui-JS" height="30" width="40"
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="gui-TS" height="30" width="40"
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="gui-React" height="30" width="40"
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="gui-HTML" height="30" width="40"
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="gui-CSS" height="30" width="40"
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+Comfortable working in agile environments, collaborating with cross-functional teams, and contributing to technical decision-making.
 
-  <!-- DevOps -->
-  <img align="center" alt="gui-Docker" height="30" width="40"
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img align="center" alt="gui-AWS" height="30" width="40"
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
-  <img align="center" alt="gui-Git" height="30" width="40"
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+Currently seeking international opportunities to expand global experience and contribute to high-impact engineering teams.
+
+---
+
+## Core Competencies
+
+- Backend Development (PHP / Laravel)
+- REST API Design & Integration
+- Domain-Driven Business Rules Implementation
+- Database Modeling & Query Optimization (MySQL)
+- Code Refactoring & Performance Improvement
+- Docker Containerization
+- AWS Environment Support & Deployment
+- Git-based Version Control
+- Agile / Scrum Methodologies
+
+---
+
+## Technical Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=php,laravel,js,mysql,docker,aws,git,github,linux" />
 
 </div>
 
 ---
 
-<h3 align="left">🔥 GitHub Stats</h3>
+## GitHub Statistics
 
 <div align="center">
-  <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=GuilhermeMachadoCmD&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
-    height="180"
-  />
-  
-  <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GuilhermeMachadoCmD&layout=compact&theme=tokyonight"
-    height="180"
-  />
+
+<img 
+  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=GuilhermeMachadoCmD&show_icons=true&theme=default&include_all_commits=true&count_private=true"
+  height="170"
+/>
+
+<img 
+  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GuilhermeMachadoCmD&layout=compact&theme=default"
+  height="170"
+/>
+
 </div>
+
+---
+
+## Professional Experience Highlights
+
+- Contributed to the evolution of internal ERP systems
+- Designed and maintained scalable REST APIs
+- Implemented complex financial and tax business rules
+- Improved database performance through query optimization
+- Refactored legacy code to increase maintainability
+- Supported containerized applications using Docker
+- Assisted in AWS-based deployments and maintenance processes
+
+---
+
+## Career Objective
+
+To join an international engineering team where I can contribute with backend expertise, system architecture improvements, and scalable solutions, while continuously expanding my technical and global professional experience.
+
+---
+
+## Contact
+
+LinkedIn: https://linkedin.com/in/seu-link  
+Email: your-email@email.com
