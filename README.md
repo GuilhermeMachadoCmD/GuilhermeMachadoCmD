@@ -46,8 +46,13 @@ Currently seeking international opportunities to expand global experience and co
 <div align="center">
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=GuilhermeMachadoCmD&theme=default" height="170"/>
-</div>
+  <p align="center">
+  <img src="https://img.shields.io/badge/Backend-PHP-blue" />
+  <img src="https://img.shields.io/badge/Framework-Laravel-red" />
+  <img src="https://img.shields.io/badge/Database-MySQL-orange" />
+  <img src="https://img.shields.io/badge/Cloud-AWS-yellow" />
+  <img src="https://img.shields.io/badge/Containers-Docker-blue" />
+</p>
 </div>
 
 ---
