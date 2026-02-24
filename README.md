@@ -46,11 +46,7 @@ Currently seeking international opportunities to expand global experience and co
 <div align="center">
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Backend-PHP-blue" />
-  <img src="https://img.shields.io/badge/Framework-Laravel-red" />
-  <img src="https://img.shields.io/badge/Database-MySQL-orange" />
-  <img src="https://img.shields.io/badge/Cloud-AWS-yellow" />
-  <img src="https://img.shields.io/badge/Containers-Docker-blue" />
+  <img src="https://raw.githubusercontent.com/GuilhermeMachadoCmD/GuilhermeMachadoCmD/output/github-contribution-grid-snake.svg" />
 </p>
 
 </div>
