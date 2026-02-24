@@ -45,10 +45,9 @@ Currently seeking international opportunities to expand global experience and co
 
 <div align="center">
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/GuilhermeMachadoCmD/GuilhermeMachadoCmD/output/github-contribution-grid-snake.svg" />
-</p>
-
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=GuilhermeMachadoCmD&theme=default" height="170"/>
+</div>
 </div>
 
 ---
