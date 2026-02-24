@@ -80,6 +80,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original
 <h3 align="left">🔥 GitHub Stats</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GuilhermeMachadoCmD&show_icons=true&theme=dark" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeMachadoCmD&layout=compact&theme=dark" height="180"/>
+  <img height="180em" 
+    src="https://github-readme-stats.vercel.app/api?username=GuilhermeMachadoCmD&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+  <img height="180em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeMachadoCmD&layout=compact&theme=tokyonight"/>
 </div>
