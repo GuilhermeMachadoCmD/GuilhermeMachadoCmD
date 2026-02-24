@@ -45,10 +45,9 @@ Currently seeking international opportunities to expand global experience and co
 
 <div align="center">
 
-<img 
-  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=GuilhermeMachadoCmD&show_icons=true&theme=default&include_all_commits=true&count_private=true"
-  height="170"
-/>
+<<p align="center">
+  <img src="https://raw.githubusercontent.com/GuilhermeMachadoCmD/GuilhermeMachadoCmD/output/github-contribution-grid-snake.svg" />
+</p>
 
 <img 
   src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GuilhermeMachadoCmD&layout=compact&theme=default"
