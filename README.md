@@ -46,8 +46,8 @@ Sou Desenvolvedor Full Stack com foco em backend e construção de sistemas orie
   <!-- Backend -->
   <img align="center" alt="gui-PHP" height="30" width="40"
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="gui-Laravel" height="30" width="40"
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
+ <img align="center" alt="gui-Laravel" height="30" width="40"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" />
   <img align="center" alt="gui-Java" height="30" width="40"
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="gui-Python" height="30" width="40"
